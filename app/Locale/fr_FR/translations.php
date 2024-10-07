@@ -1449,4 +1449,7 @@ return array(
     'The visibility should be an app role' => 'La visibilité doit être un rôle de l\'application',
     'Reply' => 'Répondre',
     '%s wrote: ' => '%s a écrit : ',
+    'Number of visible tasks in this column and swimlane' => 'Nombre de tâches visibles dans cette colonne et cette swimlane',
+    'Number of tasks in this swimlane' => 'Nombre de tâches dans cette swimlane',
+    'Unable to find another subtask in progress, you can close this window.' => 'Impossible de trouver une autre sous-tâche en cours, vous pouvez fermer cette fenêtre.',
 );

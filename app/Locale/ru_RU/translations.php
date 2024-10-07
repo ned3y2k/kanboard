@@ -1449,4 +1449,7 @@ return array(
     'The visibility should be an app role' => 'Видимость должна быть одной из ролей приложения',
     'Reply' => 'Ответить',
     '%s wrote: ' => '%s ответил: ',
+    // 'Number of visible tasks in this column and swimlane' => '',
+    // 'Number of tasks in this swimlane' => '',
+    // 'Unable to find another subtask in progress, you can close this window.' => '',
 );
